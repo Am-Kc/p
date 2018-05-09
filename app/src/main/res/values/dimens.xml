@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="shadowDx">0dp</dimen>
+    <dimen name="shadowDy">10dp</dimen>
+    <dimen name="shadowRadius">18dp</dimen>
+    <dimen name="shadowSpace">20dp</dimen>
+
+    <dimen name="cardWidth">300dp</dimen>
+    <dimen name="cardHeight">200dp</dimen>
+
+</resources>
